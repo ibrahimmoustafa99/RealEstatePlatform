@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using RealEstatePlatform_API.Repositories.Interfaces;
 
@@ -38,7 +39,58 @@ namespace RealEstatePlatform_API.Controllers
 
             return Ok(result);
         }
+        [HttpGet("agent/agentId")]
+        public async Task<IActionResult> GetProperiesByAgent(string agentId)
+        {
+            var properties = await _propertyRepository.GetPropertiesByAgentIdAsync(agentId);
+            var result = _mapper.Map<IEnumerable<DTOs.PropertyDTO>>(properties);
+            return Ok(result);
+        }
 
-        
+        [HttpPost]
+        [Authorize(Roles = "Agent")]
+        public async Task<IActionResult> Create([FromBody] DTOs.PropertyDTO propertyDto)
+        {
+            if (propertyDto == null)
+            {
+                return BadRequest("Property data is null");
+            }
+            var property = _mapper.Map<Models.Property>(propertyDto);
+            await _propertyRepository.AddAsync(property);
+            return CreatedAtAction(nameof(GetById), new { id = property.Id }, propertyDto);
+        }
+
+        [HttpPut("{id}")]
+        [Authorize(Roles = "Agent")]
+        public async Task<IActionResult> Update(int id, [FromBody] DTOs.PropertyDTO propertyDTO)
+        {
+            if (propertyDTO == null)
+            {
+                return BadRequest(new { message = "Property data is null or ID mismatch" });
+            }
+            var existingProperty = await _propertyRepository.GetPropertyByIdAsync(id);
+            if (existingProperty == null)
+            {
+                return NotFound(new {message=$"Property with id {id} Not Found"});
+            }
+
+            await _propertyRepository.UpdateAsync(_mapper.Map<Models.Property>(propertyDTO));
+            return Ok(new {message="Upated successfully"});
+
+        }
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Agent")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var existingProperty = await _propertyRepository.GetPropertyByIdAsync(id);
+            if (existingProperty == null)
+            {
+                return NotFound(new { message = $"Property with id {id} Not Found" });
+            }
+            await _propertyRepository.DeleteAsync(id);
+            return Ok(new { message = "Deleted successfully" });
+
+        }
+
     }
 }
