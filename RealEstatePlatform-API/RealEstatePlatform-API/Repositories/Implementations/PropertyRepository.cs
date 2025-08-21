@@ -20,6 +20,13 @@ namespace RealEstatePlatform_API.Repositories.Implementations
                          .ToListAsync();
         }
 
+        public async Task<IEnumerable<Property>> GetPropertiesByAgentIdAsync(string AgentId)
+        {
+            return await _context.Properties
+                         .Where(p => p.AgentId == AgentId)
+                         .Include(p => p.Images)
+                         .ToListAsync();
+        }
         public async Task<Property?> GetPropertyByIdAsync(int Id)
         {
             return await _context.Properties.
@@ -44,7 +51,7 @@ namespace RealEstatePlatform_API.Repositories.Implementations
         {
             var property = _context.Properties.Find(id);
             if (property != null) {
-                _context.Properties.Remove(property);
+                property.IsAvailable = false; // Soft delete
                 await _context.SaveChangesAsync();
 
             }
