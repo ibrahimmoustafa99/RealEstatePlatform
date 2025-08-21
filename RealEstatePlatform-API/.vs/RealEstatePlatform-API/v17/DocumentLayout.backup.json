@@ -7,38 +7,6 @@
       "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\realestateplatform-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\realestateplatform-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\repositories\\implementations\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\repositories\\implementations\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,28 +15,16 @@
       "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\repositories\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\dtos\\propertyupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\dtos\\propertyupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\dtos\\auth\\registerdto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\dtos\\auth\\registerdto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|d:\\projects\\realestateplatform\\realestateplatform-api\\realestateplatform-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87DED1D6-AA93-415D-9474-65AA755E5443}|RealEstatePlatform-API\\RealEstatePlatform-API.csproj|solutionrelative:realestateplatform-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,167 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:23:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\PropertyUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RealEstatePlatform-API\\DTOs\\PropertyUpdateDTO.cs",
+              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\PropertyUpdateDTO.cs",
+              "RelativeToolTip": "RealEstatePlatform-API\\DTOs\\PropertyUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:22:19.99Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PropertyController.cs",
               "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Controllers\\PropertyController.cs",
               "RelativeDocumentMoniker": "RealEstatePlatform-API\\Controllers\\PropertyController.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Controllers\\PropertyController.cs*",
-              "RelativeToolTip": "RealEstatePlatform-API\\Controllers\\PropertyController.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAATAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "RealEstatePlatform-API\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA6wEwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:57:33.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwFQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T12:06:19.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:05:01.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PropertyImage.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\PropertyImage.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Models\\PropertyImage.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\PropertyImage.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Models\\PropertyImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:19:09.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "PropertyRepository.cs",
               "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Repositories\\Implementations\\PropertyRepository.cs",
               "RelativeDocumentMoniker": "RealEstatePlatform-API\\Repositories\\Implementations\\PropertyRepository.cs",
               "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Repositories\\Implementations\\PropertyRepository.cs",
               "RelativeToolTip": "RealEstatePlatform-API\\Repositories\\Implementations\\PropertyRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T18:53:06.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "IPropertyRepository.cs",
               "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Repositories\\Interfaces\\IPropertyRepository.cs",
               "RelativeDocumentMoniker": "RealEstatePlatform-API\\Repositories\\Interfaces\\IPropertyRepository.cs",
               "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Repositories\\Interfaces\\IPropertyRepository.cs",
               "RelativeToolTip": "RealEstatePlatform-API\\Repositories\\Interfaces\\IPropertyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T18:19:34.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Program.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Program.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Program.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwDIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:14:56.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Models\\Booking.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\Booking.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:43:27.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Property.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\Property.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Models\\Property.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\Property.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Models\\Property.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:43:26.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PropertyDTO.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\PropertyDTO.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\DTOs\\PropertyDTO.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\PropertyDTO.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\DTOs\\PropertyDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:58:11.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:52:48.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RealEstatePlatform-API",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\RealEstatePlatform-API.csproj",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\RealEstatePlatform-API.csproj",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\RealEstatePlatform-API.csproj",
-              "RelativeToolTip": "RealEstatePlatform-API\\RealEstatePlatform-API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T12:42:01.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "RegisterDTO.cs.cs",
               "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\Auth\\RegisterDTO.cs.cs",
               "RelativeDocumentMoniker": "RealEstatePlatform-API\\DTOs\\Auth\\RegisterDTO.cs.cs",
@@ -246,60 +111,7 @@
               "RelativeToolTip": "RealEstatePlatform-API\\DTOs\\Auth\\RegisterDTO.cs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T11:56:40.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthResponseDTO.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\Auth\\AuthResponseDTO.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\DTOs\\Auth\\AuthResponseDTO.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\Auth\\AuthResponseDTO.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\DTOs\\Auth\\AuthResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T12:03:44.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\appsettings.json",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\appsettings.json",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\appsettings.json",
-              "RelativeToolTip": "RealEstatePlatform-API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T16:02:06.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\Auth\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\DTOs\\Auth\\LoginDTO.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\DTOs\\Auth\\LoginDTO.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\DTOs\\Auth\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T12:02:14.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RealEstatePlatform-API\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\RealEstatePlatform\\RealEstatePlatform-API\\RealEstatePlatform-API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RealEstatePlatform-API\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:41:52.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T11:56:40.249Z"
             }
           ]
         }

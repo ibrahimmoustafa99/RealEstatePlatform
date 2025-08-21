@@ -1,5 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.EntityFrameworkCore;
 using RealEstatePlatform_API.Data;
+using RealEstatePlatform_API.DTOs.Property;
 using RealEstatePlatform_API.Models;
 using RealEstatePlatform_API.Repositories.Interfaces;
 
@@ -41,11 +43,17 @@ namespace RealEstatePlatform_API.Repositories.Implementations
             
         }
 
-        public async Task UpdateAsync(Property property)
+        public async Task UpdateAsync(int id,PropertyUpdateDTO property)
         {
-            _context.Properties.Update(property);
+            var existingProperty =await _context.Properties.FirstOrDefaultAsync(p => p.Id == id);
+            existingProperty.Price = property.Price;
+            existingProperty.Title = property.Title;
+            existingProperty.Description = property.Description;
+
             await _context.SaveChangesAsync();
         }
+
+       
 
         public async Task DeleteAsync(int id)
         {

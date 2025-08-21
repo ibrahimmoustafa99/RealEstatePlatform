@@ -1,6 +1,4 @@
-﻿
-
-namespace RealEstatePlatform_API.DTOs
+﻿namespace RealEstatePlatform_API.DTOs.Property
 {
     public class PropertyDTO
     {

@@ -205,3 +205,4 @@ D:\Projects\RealEstatePlatform\RealEstatePlatform-API\RealEstatePlatform-API\bin
 D:\Projects\RealEstatePlatform\RealEstatePlatform-API\RealEstatePlatform-API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\RealEstatePlatform\RealEstatePlatform-API\RealEstatePlatform-API\bin\Debug\net9.0\AutoMapper.dll
 D:\Projects\RealEstatePlatform\RealEstatePlatform-API\RealEstatePlatform-API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\RealEstatePlatform\RealEstatePlatform-API\RealEstatePlatform-API\obj\Debug\net9.0\RealEstatePlatform-API.sourcelink.json

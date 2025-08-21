@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using RealEstatePlatform_API.DTOs;
+using RealEstatePlatform_API.DTOs.Property;
 using RealEstatePlatform_API.Models;
 using System.Linq;
 
@@ -18,6 +18,8 @@ namespace RealEstatePlatform_API.Mapping
             CreateMap<PropertyDTO, Property>()
                 .ForMember(dest => dest.Images,
                            opt => opt.MapFrom(src => src.Images.Select(url => new PropertyImage { ImageUrl = url })));
+
+            CreateMap<PropertyUpdateDTO, Property>();
         }
     }
 }
